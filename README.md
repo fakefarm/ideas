@@ -38,9 +38,14 @@
 
 - refactor lemonade stand
 - bootcamp options
+- online options
+- book list
 
 ## books for my sons
 - see you at the top
 - cash flow quadrant
 - emyth
 - experience economy
+- the long tail
+- whole new mind
+
