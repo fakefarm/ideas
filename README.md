@@ -32,7 +32,7 @@
 ## parenting
 
 - apprenticeship academy
-- 
+ 
 
 ## Learning to code
 
