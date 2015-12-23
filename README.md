@@ -46,6 +46,10 @@
 - cash flow quadrant
 - emyth
 - experience economy
-- the long tail
+- the long tail 
 - whole new mind
-
+- spin selling
+- anything you want (Sivers)
+- rich dad / poor dad
+- the magic of thinking big
+- naked economics
